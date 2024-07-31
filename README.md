@@ -10,12 +10,12 @@
 ## 📖 About me
 
 ```
-hoangnamlovegura@gmail.com
+ccxhack@gmail.com
 -------------------------
 💻 I am a self-taught full stack developer.
 🔭 Studying backend development.
 🌱 Be going to learn Computer Science and SE. 
-🌟 Main languages: TypeScript, Python,...
+🌟 Main languages: Lua,...
 
 P/s: from 🇻🇳 with 💖
 ```
@@ -26,12 +26,7 @@ P/s: from 🇻🇳 with 💖
     <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,python,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
 </p>
 
-## 🙋‍♂️ Connect with me:
 
-<p align="left">
-  <a href=""><img alt="FB" title="FB" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://www.facebook.com/hoangnamlovegura/"><img alt="Intagram" title="intagram" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
 
 #
 
