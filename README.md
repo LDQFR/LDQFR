@@ -1,6 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1200809846983905362/1210632302657409094/1340478.jpeg?ex=65eb4431&is=65d8cf31&hm=eb21f61a8f3f992485dc31a1fc68d8dd0cc68dabb30320f55488fa694d58b78e&=&format=webp&width=550&height=285" height="175px"/></a>
 
-<h3 align="center">Hello there, I'm <a href="">FrierenWithLove</a> - I Love Frieren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello there, I'm <a href="">LDQ</a>
 
 <p align="center">
   <a href="https://www.facebook.com/hoangnamlovegura/"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
