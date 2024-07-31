@@ -99,3 +99,4 @@ If you have any questions about me or something else, feel free to <a href="mail
 
 > "Luong Dai Quan" - LDQ
 
+> Top 1 Skidder
