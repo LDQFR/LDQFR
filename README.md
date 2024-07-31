@@ -2,7 +2,7 @@
 <h3 align="center">Hello there, I'm <a href="">LDQ</a>
 
 <p align="center">
-  <a href="https://www.facebook.com/hoangnamlovegura/"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/LDQFR"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Xin+Ch%C3%A0o+!+T%C3%B4i+L%C3%A0+Ng%C6%B0%E1%BB%9Di+Vi%E1%BB%87t+Nam+)](https://git.io/typing-svg)
