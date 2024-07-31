@@ -14,17 +14,13 @@ ccxhack@gmail.com
 -------------------------
 💻 I am a self-taught full stack developer.
 🔭 Studying backend development.
-🌱 Be going to learn Computer Science and SE. 
+🌱 Be going to learn Python. 
 🌟 Main languages: Lua,...
 
 P/s: from 🇻🇳 with 💖
 ```
 <hr>
 
-## 🛠️ Tools and Languages:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,python,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
-</p>
 
 
 
@@ -53,8 +49,8 @@ P/s: from 🇻🇳 with 💖
         public readonly national: string = "Viet Nam";
 
         constructor() {
-            this.realname = "Nguyen Hoang Nam";
-            this.nickname =  "FrierenWithLove";
+            this.realname = "Luong Dai Quan";
+            this.nickname =  "LDQ";
         }
         
         public void doSomething() {
@@ -66,8 +62,8 @@ P/s: from 🇻🇳 with 💖
 ```python
     class Info:
         def __init__(self):
-            self._realname = "Nguyen Hoang Nam"
-            self._nickname = "FrierenWithLove"
+            self._realname = "Luong Dai Quan"
+            self._nickname = "LDQ"
             self.national = "Viet Nam"
 
         def doSomething(self):
@@ -83,8 +79,8 @@ P/s: from 🇻🇳 with 💖
         char[] national
     public:  
       Info() : 
-        realname("Nguyen Hoang Nam"), 
-        name("FrierenWithLove"), 
+        realname("Luong Dai Quan"), 
+        name("LDQ"), 
         national("Viet Nam")
       {} 
       void doSomething()
@@ -97,10 +93,9 @@ P/s: from 🇻🇳 with 💖
 
 ## 🤝 At the end
 
-If you have any questions about me or something else, feel free to <a href="mailto:hoangnamlovegura@gmail.com">contact me through email</a> me.
+If you have any questions about me or something else, feel free to <a href="mailto:ccxhack@gmail.com">contact me through email</a> me.
 
 > Peace and Love
 
-> "Nguyen Hoang Nam" - Frieren
+> "Luong Dai Quan" - LDQ
 
-[Dev]: [FB](https://www.facebook.com/profile.php?id=100091729477173)
